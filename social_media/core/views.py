@@ -4,6 +4,7 @@ from django.contrib import messages
 from django.http import HttpResponse
 from django.contrib.auth.decorators import login_required
 from .models import Profile,Post
+from itertools import chain
 # Create your views here.
 
 @login_required(login_url='signin')
