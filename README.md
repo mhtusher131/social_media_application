@@ -99,6 +99,10 @@ Include an ER diagram image here (e.g., `social_media_ER_Digram.png` in the repo
 - **Code Quality:** Follows Django best practices with clean, well-documented code.
 - **User Interface:** Simple, intuitive, and consistent UI.
 - **Documentation:** Clear setup instructions and feature descriptions.
+## Live Exam Search Feature
+Searching by UserName
+![Live Exam Search Result](""  width="600")
+<img src="https://raw.githubusercontent.com/mhtusher131/social_media_application/main/Live_exam_search_result.png" width="600">
 
 ## License
 
