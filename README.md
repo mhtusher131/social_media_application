@@ -83,7 +83,8 @@ Now, open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 
 ## Database Schema (ER Diagram)
 Include an ER diagram image here (e.g., `social_media_ER_Digram.png` in the repository).
-![ER Diagram](https://raw.githubusercontent.com/mhtusher131/social_media_application/main/social_media/social_media_ER_Diagram.png)
+<img src="https://raw.githubusercontent.com/mhtusher131/social_media_application/main/social_media/social_media_ER_Diagram.png" width="600">
+
 
 ## Testing Credentials
 
